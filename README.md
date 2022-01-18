@@ -2,7 +2,7 @@ Hi there! 👋 I'm Leonardo Gomez -as nardo1285
 
 - A Full Stack Developer (on my init steps)
 - I´m searching for my very first job in IT world
-- 👀 I’m interested in learning Front End and UX
+- 👀 I’m interested in learning from Back to Front End and UX
 - 🌱 I’m currently learning ...everything I can!
  
 
